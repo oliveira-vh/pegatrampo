@@ -8,14 +8,14 @@ Tela Inicial
 ![Tela 1](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_1.png)
 
 Escolhendo a Categoria para busca
-![Tela 1](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_2.png)
+![Tela 2](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_2.png)
 
 Mais detalhes da vaga
-![Tela 1](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_3.png)
+![Tela 3](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_3.png)
 
 Edição da vaga
-![Tela 1](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_4.png)
+![Tela 4](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_4.png)
 
 Criação de nova vaga
-![Tela 1](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_5.png)
-![Tela 1](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_6.png)
+![Tela 5](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_5.png)
+![Tela 6](https://raw.githubusercontent.com/oliveira-vh/pegatrampo/main/telas_do_app/Screenshot_6.png)
